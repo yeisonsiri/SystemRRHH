@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS0649: El campo 'ContratacionAtributos.Ingresos' nunca se asigna y siempre tendrá el valor predeterminado 0
+dotnet_diagnostic.CS0649.severity = none

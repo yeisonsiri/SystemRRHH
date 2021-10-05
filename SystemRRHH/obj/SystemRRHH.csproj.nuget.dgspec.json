@@ -1,0 +1,56 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\yeison\\Programacion2\\SystemRRHH\\SystemRRHH\\SystemRRHH.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yeiso\\OneDrive\\Escritorio\\yeison\\Programacion2\\SystemRRHH\\SystemRRHH\\SystemRRHH.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\yeison\\Programacion2\\SystemRRHH\\SystemRRHH\\SystemRRHH.csproj",
+        "projectName": "SystemRRHH",
+        "projectPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\yeison\\Programacion2\\SystemRRHH\\SystemRRHH\\SystemRRHH.csproj",
+        "packagesPath": "C:\\Users\\yeiso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yeiso\\OneDrive\\Escritorio\\yeison\\Programacion2\\SystemRRHH\\SystemRRHH\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yeiso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "dependencies": {
+            "SpreadsheetLight": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

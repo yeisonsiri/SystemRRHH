@@ -1,0 +1,50 @@
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.exe
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.deps.json
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.runtimeconfig.json
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.runtimeconfig.dev.json
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\ref\SystemRRHH.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.pdb
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.csproj.AssemblyReference.cache
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.AssemblyInfoInputs.cache
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.AssemblyInfo.cs
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.csproj.CoreCompileInputs.cache
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\ref\SystemRRHH.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.pdb
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.genruntimeconfig.cache
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SpreadsheetLight.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jzcha\source\repos\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.csproj.CopyComplete
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.exe
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.deps.json
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.runtimeconfig.json
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.runtimeconfig.dev.json
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\ref\SystemRRHH.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SystemRRHH.pdb
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\SpreadsheetLight.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\System.IO.Packaging.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.csproj.AssemblyReference.cache
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.AssemblyInfoInputs.cache
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.AssemblyInfo.cs
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.csproj.CoreCompileInputs.cache
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.csproj.CopyComplete
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\ref\SystemRRHH.dll
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.pdb
+C:\Users\jzcha\OneDrive\C# C5\Tareas\SystemRRHH\SystemRRHH\obj\Debug\net5.0\SystemRRHH.genruntimeconfig.cache
